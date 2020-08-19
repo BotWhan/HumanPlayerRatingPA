@@ -1,0 +1,23 @@
+{
+  "context": "server",
+  "identifier": "com.pa.bot.aibrainBotAiMimic",
+  "display_name": "BotAIMimic",
+  "description": "the the",
+  "author": "Bot",
+  "version": "0.0.1",
+  "build": "114353",
+  "date": "2020-06-05",
+  "signature": " ",
+  "forum": "https://www.Ass.com",
+  "category": [
+    "ai",
+    "bot"
+  ],
+  "icon": "https://i.kym-cdn.com/photos/images/newsfeed/001/741/230/b06.jpg",
+  "scenes": {
+    "new_game": [ "coui://ui/mods/com.pa.bot.aibrainBotAiMimic/new_game.js" ]
+  },
+  "dependencies": [ "com.pa.quitch.qAIModCompatibilityPatch" ],
+  "priority": 100,
+  "titansOnly": true
+}
