@@ -1,0 +1,24 @@
+{
+  "context": "client",
+  "identifier": "com.pa.hmm.human-ratings",
+  "display_name": "hmmy",
+  "description": "descit?",
+  "author": "me",
+  "version": "1.0",
+  "build": "105067",
+  "date": "1401-12-10",
+  "signature": "not yet implemented",
+  "forum": "",
+  "titansOnly": false,
+  "classicOnly": false,
+  "priority": 1,
+  "icon": "https://i.pinimg.com/736x/b3/ff/3a/b3ff3accc46377d013a80eb9519c8c1c.jpg",
+  "category": ["gameplay", "lobby", "ui"],
+  "scenes":
+  {
+    "new_game":
+    [
+      "coui://ui/mods/com.pa.hmm.human-ratings/new_game.js"
+    ]
+  }
+}
